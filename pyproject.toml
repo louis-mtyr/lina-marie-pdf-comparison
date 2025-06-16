@@ -1,0 +1,18 @@
+[project]
+name = "detection-difference-pdf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "image>=1.5.33",
+    "ipykernel>=6.29.5",
+    "nltk>=3.9.1",
+    "pandas>=2.3.0",
+    "pdfminer-six>=20250506",
+    "pymupdf>=1.26.1",
+    "pytesseract>=0.3.13",
+    "scikit-learn>=1.7.0",
+    "sentence-transformers>=4.1.0",
+    "simplejson==3.19.2",
+]
