@@ -1,0 +1,17 @@
+Voici une liste claire et concise des ajouts ou modifications significatives détectées, expliquant brièvement de quoi il s'agit.
+
+*   **Ajout d'un récit de cas de Madame Dupont :** Ajout d'un paragraphe décrivant la prise en charge d'une patiente (Madame Dupont) nécessitant une intervention chirurgicale en urgence, mettant l'accent sur l'importance de la personne de confiance et la prise de décision éclairée.
+*   **Ajout d'un scénario clinique GEU (Grossesse Extra-Utérine) :** Ajout d'un scénario clinique concernant une prise en charge chirurgicale en urgence d'une patiente avec suspicion de GEU, incluant la description de l'intervention et des explications à la patiente.
+*   **Ajout d'une définition de la GEU et ses localisations:** Ajout d'une section définissant la Grossesse Extra-Utérine (GEU), et décrivant les différentes localisations possibles de la nidation.
+*   **Ajout des Signes cliniques de choc et de la conduite à tenir face à une anémie mal tolérée:** Ajout d'une liste de signes cliniques de choc, et de la conduite à tenir face à une anémie mal tolérée.
+*   **Ajout d'une vignette clinique sur l'évaluation des pertes sanguines:** Ajout d'une introduction à une vignette clinique concernant une patiente de 28 ans qui consulte pour aménorrhée et désir de conception et présentant des signes d'hyperandrogénie.
+*   **Ajout d'informations sur un enregistrement tococardiographique :** Ajout d'informations sur les éléments à vérifier lors d'un enregistrement tococardiographique (antécédents, groupe sanguin, etc.).
+*   **Ajout d'un récit de cas de mastite puerpérale :** Ajout d'un récit de cas clinique concernant une patiente présentant une mastite puerpérale, avec fièvre et abcès du sein.
+*   **Ajout d'informations sur la prise en charge d'un abcès du sein:** Ajout d'informations sur l'interrogatoire, le bilan préopératoire, et la prise en charge anesthésique d'une patiente devant être opérée pour un abcès du sein.
+*   **Ajout d'un tableau sur les traitements compatibles ou non avec l'allaitement:** Ajout d'un tableau listant des médicaments (antiémétiques, antihypertenseurs) et leur compatibilité avec l'allaitement.
+*   **Ajout d'un tableau sur les psychotropes et l'allaitement:** Ajout d'un tableau listant des psychotropes et leur compatibilité avec l'allaitement.
+*   **Ajout d'items concernant la prise en charge du diabète de type 1 et 2 :** Ajout d'items concernant la prise en charge du diabète, l'hypoglycémie, et les complications comme la cétoacidose et le coma hyperosmolaire.
+*   **Ajout d'un scénario de dystocie des épaules :** Ajout d'un scénario clinique concernant un accouchement compliqué d'une dystocie des épaules, avec des conséquences pour le nouveau-né.
+*   **Ajout d'un récit de cas de suspicion de pré-éclampsie :** Ajout d'un récit de cas clinique concernant une femme enceinte présentant des signes de pré-éclampsie.
+*   **Ajout d'un récit de cas concernant Valentine O. :** Ajout d'un récit de cas d'une jeune patiente de 17 ans souhaitant initier une contraception.
+*   **Ajout de questions réponses concernant la conduite à tenir en cas d'infection urinaire :** Ajout de questions réponses concernant la conduite à tenir en cas d'infection urinaire.
